@@ -86,7 +86,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%);
 .content button {
     border-radius: 9999px;
     color: #121213;
-    padding: 16px 64px;
+    padding: 8px 64px;
     border: 0;
     font-weight: 700;
     font-family: inherit;
